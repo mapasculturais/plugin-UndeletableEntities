@@ -14,7 +14,7 @@ colocar no array de plugins a entrada abaixo:
         'Space' => [], // ids dos espaços que não podem ser deletados
         'Event' => [], // ids dos eventos que não podem ser deletados
         'Project' => [], // ids dos projetos que não podem ser deletados
-        '*Opportunity' => [], // ids das oportunidades que não podem ser deletados
+        'Opportunity' => [], // ids das oportunidades que não podem ser deletados
         'Seal' => [], // ids dos selos que não podem ser deletados
     ]
 ]
